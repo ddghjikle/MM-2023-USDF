@@ -9,7 +9,7 @@ DOI: https://doi.org/10.1145/3581783.3612535
 ## 1. Different framework of unsupervised deblurring
 
 <p align="center">
-    <img src='/Introduction.png' width=900/>
+    <img src='/Introduction.png' width=700/>
 </p>
 
 **(a) Prior-based Methods:**
@@ -34,7 +34,7 @@ DOI: https://doi.org/10.1145/3581783.3612535
 ## 2. Method
 
 <p align="center">
-    <img src='/Framework.png' width=900/>
+    <img src='/Framework.png' width=700/>
 </p>
 **(a) Left:**
 
