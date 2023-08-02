@@ -34,7 +34,7 @@ DOI: https://doi.org/10.1145/3581783.3612535
 ## 2. Method
 
 <p align="center">
-    <img src='/Framework.png' width=700/>
+    <img src='/Framework.png' width=800/>
 </p>
 **(a) Left:**
 
