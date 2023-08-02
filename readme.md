@@ -74,6 +74,12 @@ python train.py --device 0 --config config_gopro.json --tag GoPro
 ### Citation
 
 If you find our code or paper useful, please consider citing:
+@inproceedings{jiang2023uncertainty,
+  title={Uncertainty-Aware Variate Decomposition for Self-supervised Blind Image Deblurring},
+  author={Runhua Jiang and Yahong Han},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2023}
+}
 
 ### Acknowledgments
 
